@@ -1,0 +1,41 @@
+Currency Code,Currency Name,Amount of Currency,Path for Best Conversion Rate
+CAD,Canada Dollar,100,CAD
+EUR,Euro,67.32852,CAD -> EUR
+USD,USA Dollar,79.63703,CAD -> USD
+BTC,Bitcoin,0.00181,CAD -> BTC
+BRL,Brazil Real,412.08573,CAD -> BRL
+ARS,Argentina Peso,7762.57704,CAD -> BRL -> ARS
+MXN,Mexico Peso,1591.0551,CAD -> USD -> MXN
+TTD,Trinidad/Tobago Dollar,538.86731,CAD -> BRL -> TTD
+SAR,Saudi Arabia Riyal,300.86281,CAD -> USD -> SAR
+CNY,China Yuan/Renminbi,513.89025,CAD -> USD -> CNY
+AUD,Australia Dollar,107.92891,CAD -> EUR -> AUD
+NANO,Nano,15.23736,CAD -> BTC -> NANO
+JPY,Japan Yen,8828.53094,CAD -> USD -> JPY
+GBP,Great Britain Pound,57.74126,CAD -> EUR -> GBP
+BZD,Belize Dollar,161.21058,CAD -> EUR -> BZD
+BAN,Banano,9007.12944,CAD -> BTC -> BAN
+ETH,Ethereum,0.02584,CAD -> BTC -> ETH
+NZD,New Zealand Dollar,112.65233,CAD -> EUR -> NZD
+DOGE,Dogecoin,366.03185,CAD -> BTC -> NANO -> DOGE
+SDG,Sudan Pound,35596.1818,CAD -> USD -> SAR -> SDG
+LBP,Lebanon Pound,121948.66563,CAD -> EUR -> GBP -> LBP
+HKD,Hong Kong Dollar,625.8565,CAD -> USD -> CNY -> HKD
+NOK,Norway Kroner,695.9891,CAD -> EUR -> GBP -> NOK
+UYU,Uruguay Peso,3424.86052,CAD -> USD -> SAR -> UYU
+ADA,Cardano,36.75513,CAD -> BTC -> NANO -> ADA
+LRD,Liberia Dollar,13777.77342,CAD -> USD -> SAR -> LRD
+TND,Tunisia Dinar,224.60785,CAD -> USD -> SAR -> UYU -> TND
+INR,India Rupee,5926.03898,CAD -> USD -> CNY -> HKD -> INR
+VND,Vietnam Dong,1842779.29713,CAD -> USD -> CNY -> HKD -> VND
+ALGO,Alogorand,42.64799,CAD -> BTC -> NANO -> ADA -> ALGO
+PHP,Philippines Peso,4057.73208,CAD -> USD -> CNY -> HKD -> PHP
+DZD,Algeria Dinar,11061.60206,CAD -> USD -> SAR -> LRD -> DZD
+SEK,Sweden Krona,698.38689,CAD -> EUR -> GBP -> NOK -> SEK
+LTC,Litecoin,0.4875,CAD -> BTC -> NANO -> ADA -> LTC
+CHF,Switzerland Franc,76.84323,CAD -> EUR -> GBP -> NOK -> SEK -> CHF
+KRW,South Korea Won,96361.3369,CAD -> USD -> CNY -> HKD -> PHP -> KRW
+TRY,Turkish New Lira,688.84735,CAD -> EUR -> GBP -> NOK -> SEK -> TRY
+BCH,BitcoinCash,0.16278,CAD -> BTC -> NANO -> ADA -> ALGO -> BCH
+SGD,Singapore Dollar,106.88555,CAD -> USD -> CNY -> HKD -> PHP -> KRW -> SGD
+THB,Thailand Baht,2631.80978,CAD -> USD -> CNY -> HKD -> PHP -> KRW -> SGD -> THB
